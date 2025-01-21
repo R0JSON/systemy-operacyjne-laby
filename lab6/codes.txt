@@ -1,0 +1,7 @@
+u -> 16
+d -> 20
+a -> 1e
+b -> 30
+l -> 26
+r -> 13
+Up Up down down left right left right B A
